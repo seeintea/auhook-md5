@@ -1,0 +1,17 @@
+{
+  "name": "suika",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.7.3",
+    "typescript": "^5.4.5"
+  }
+}

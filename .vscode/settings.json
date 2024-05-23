@@ -1,4 +1,8 @@
 {
-  "cSpell.words": ["biomejs", "suika"],
+  "cSpell.words": [
+    "biomejs",
+    "commitlint",
+    "suika"
+  ],
   "biome.enabled": true
 }
